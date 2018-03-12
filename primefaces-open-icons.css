@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'jquery-ui';
+    src: url("icons/jquery-ui.eot");
+    src: url("icons/jquery-ui.eot#iefix") format('embedded-opentype'), url("icons/jquery-ui.woff") format('woff'), url("icons/jquery-ui.ttf") format('truetype'), url("icons/jquery-ui.svg#jquery-ui") format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.test1 {
+    color: black;
+}
