@@ -9,10 +9,11 @@ A request to add this to the regular PrimeFaces build has been discussed in this
 ### Prerequisites
 
 - PrimeFaces 6.1+
+- Using Aristo or Omega Theme
 
 ### Installing
 
-Copy the primefaces-open-icons.css to your project and add it as an additional CSS <link>. It is recommended to copy also the font files to your local server to avoid being dependent to the CDN.
+Copy the primefaces-open-icons-aristo.css to your project and add it as an additional CSS <link>. It is recommended to copy also the font files to your local server to avoid being dependent to the CDN.
 
 ## License
 
