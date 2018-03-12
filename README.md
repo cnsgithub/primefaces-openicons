@@ -1,4 +1,4 @@
-# Project Title
+# PrimeFaces-Openicons
 
 Drop-In CSS to have scalable and nice-looking fonts for PrimeFaces (https://www.primefaces.org/) on the default and non-paid theme.
 
