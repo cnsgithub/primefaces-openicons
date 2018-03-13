@@ -118,3 +118,7 @@
 .ui-messages .ui-icon {
     color: #FFFFFF;
 }
+
+.ui-radiobutton-icon {
+    margin-left: 0;
+}
