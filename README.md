@@ -13,7 +13,12 @@ A request to add this to the regular PrimeFaces build has been discussed in this
 
 ### Installing
 
-Copy the primefaces-open-icons-aristo.css to your project and add it as an additional CSS <link>. It is recommended to copy also the font files to your local server to avoid being dependent to the CDN.
+Copy the following files to your project as additional CSS link:
+
+- primefaces-open-icons-font.css
+- Either primefaces-open-icons-omega.css or primefaces-open-icons-omega.css depending on the theme you are using.
+
+It is recommended to copy also the font files referenced in the *-font.css to your local server to avoid being dependent to the CDN.
 
 ## License
 

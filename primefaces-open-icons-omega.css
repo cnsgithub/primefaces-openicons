@@ -1,0 +1,119 @@
+.ui-icon {
+    line-height: 16px !important;
+    text-indent: 0 !important;
+    border-radius: 0;
+    color: #222222;
+}
+
+.ui-icon:after {
+    font-family: "jquery-ui";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.ui-widget-content .ui-icon {
+    color: #222222;
+}
+
+.ui-widget-header .ui-icon {
+    color: #222222;
+}
+
+.ui-state-default .ui-icon {
+    color: #454545;
+}
+
+.ui-state-hover .ui-icon,
+.ui-state-focus .ui-icon {
+    color: #454545;
+}
+
+.ui-state-active .ui-icon {
+    color: #454545;
+}
+
+.ui-state-highlight .ui-icon {
+    color: #ffffff;
+}
+
+.ui-state-error .ui-icon,
+.ui-state-error-text .ui-icon {
+    color: #cd0a0a;
+}
+
+.ui-button .ui-icon {
+    color: #ffffff
+}
+
+.ui-state-highlight .ui-chkbox-box .ui-icon,
+.ui-state-highlight .ui-radiobutton-box .ui-icon {
+    color: #2e83ff;
+}
+
+.ui-chkbox-box.ui-state-active .ui-icon,
+.ui-radiobutton-box.ui-state-active .ui-icon {
+    color: #FFFFFF;
+}
+
+
+/* Why? - because paginator items not only render the icon but also F, P, N, L inline */
+
+.ui-paginator .ui-paginator-next .ui-icon,
+.ui-paginator .ui-paginator-prev .ui-icon,
+.ui-paginator .ui-paginator-first .ui-icon,
+.ui-paginator .ui-paginator-last .ui-icon {
+    color: transparent;
+}
+
+.ui-paginator a span:after {
+    margin-left: -8px;
+    color: #454545;
+}
+
+.ui-panelmenu .ui-panelmenu-header.ui-state-active .ui-icon {
+    color: #FFFFFF;
+}
+
+.ui-datatable th.ui-state-active .ui-icon-carat-2-n-s {
+    color: #ffffff;
+}
+
+.ui-datatable .ui-selection-column .ui-radiobutton-box .ui-icon,
+.ui-datatable .ui-selection-column .ui-chkbox-box .ui-icon {
+    color: #454545;
+}
+
+.ui-treetable th.ui-state-active .ui-icon-carat-2-n-s {
+    color: #FFFFFF;
+}
+
+.ui-treetable .ui-selection .ui-chkbox-box .ui-icon {
+    color: #454545;
+}
+
+.ui-selectbooleanbutton.ui-button.ui-state-default .ui-icon {
+    color: #454545;
+}
+
+.ui-selectbooleanbutton.ui-button.ui-state-hover.ui-icon,
+.ui-selectbooleanbutton.ui-button.ui-state-focus .ui-icon {
+    color: #454545;
+}
+
+.ui-selectbooleanbutton.ui-button.ui-state-active .ui-icon {
+    color: #FFFFFF;
+}
+
+.ui-selectcheckboxmenu .ui-selectcheckboxmenu-token .ui-selectcheckboxmenu-token-icon,
+.ui-autocomplete .ui-autocomplete-token .ui-autocomplete-token-icon,
+.ui-chips .ui-chips-token .ui-chips-token-icon {
+    color: #FFFFFF;
+}
+
+.ui-tabmenu li.ui-state-active .ui-menuitem-icon {
+    color: #FFFFFF;
+}
+
+.ui-messages .ui-icon {
+    color: #FFFFFF;
+}
