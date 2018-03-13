@@ -20,6 +20,10 @@ Copy the following files to your project as additional CSS link:
 
 It is recommended to copy also the font files referenced in the *-font.css to your local server to avoid being dependent to the CDN.
 
+### Comparison
+
+![alt text](https://raw.githubusercontent.com/cnsgithub/primefaces-openicons/master/images/comparison.png)
+
 ## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE.md](LICENSE.md) file for details
